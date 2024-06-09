@@ -56,14 +56,6 @@ If you want to learn more about building native executables, please consult http
 
 ## Provided Code
 
-### YAML Config
-
-Configure your application with YAML
-
-[Related guide section...](https://quarkus.io/guides/config-reference#configuration-examples)
-
-The Quarkus application configuration is located in `src/main/resources/application.yml`.
-
 ### REST
 
 Easily start your REST Web Services
